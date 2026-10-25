@@ -5,6 +5,7 @@
 **NIM     :** 240511024   
 
 **KELAS   :** TI24D
+
 Berikut adalah tabel perbandingan karakteristik antara platform Web, Desktop, dan Mobile:
 
 | Aspek | Web | Desktop | Mobile |
