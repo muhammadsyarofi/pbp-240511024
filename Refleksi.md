@@ -1,4 +1,4 @@
-#Refleksi Diri
+# Refleksi Diri
 
 Sebagai mahasiswa dengan konsentrasi Data Science, platform yang paling menarik bagi saya untuk dipelajari adalah Web. Alasannya, platform Web (terutama melalui framework seperti Streamlit, Dash, atau Shiny) saat ini menjadi jembatan utama untuk men-deploy model machine learning atau memvisualisasikan hasil analisis data agar dapat diakses dengan mudah oleh pengguna awam melalui browser. Karakteristik web yang cross-platform dan tidak memerlukan instalasi memudahkan kolaborasi antar stakeholder dalam melihat dashboard data secara real-time.
 
